@@ -1,0 +1,10 @@
+C:\Users\rtbau\source\repos\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+C:\Users\rtbau\source\repos\Coffee Shop\bin\Debug\Coffee Shop.exe
+C:\Users\rtbau\source\repos\Coffee Shop\bin\Debug\Coffee Shop.pdb
+C:\Users\rtbau\source\repos\Coffee Shop\obj\Debug\Coffee Shop.csprojAssemblyReference.cache
+C:\Users\rtbau\source\repos\Coffee Shop\obj\Debug\Coffee_Shop.frmTomsDiner.resources
+C:\Users\rtbau\source\repos\Coffee Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+C:\Users\rtbau\source\repos\Coffee Shop\obj\Debug\Coffee Shop.csproj.GenerateResource.cache
+C:\Users\rtbau\source\repos\Coffee Shop\obj\Debug\Coffee Shop.csproj.CoreCompileInputs.cache
+C:\Users\rtbau\source\repos\Coffee Shop\obj\Debug\Coffee Shop.exe
+C:\Users\rtbau\source\repos\Coffee Shop\obj\Debug\Coffee Shop.pdb
